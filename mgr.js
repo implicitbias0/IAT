@@ -23,8 +23,8 @@ define(['managerAPI',
         blackLabels.push('Non-Entrepreneurship');
         whiteLabels.push('Entrepreneurship');
     } else {
-        blackLabels.push('Non-Entrepreneurship');
-        whiteLabels.push('Entrepreneurship');
+        blackLabels.push('Female Names');
+        whiteLabels.push('Male Names');
     }
 
     API.addGlobal({
