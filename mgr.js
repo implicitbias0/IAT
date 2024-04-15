@@ -20,8 +20,8 @@ define(['managerAPI',
     let whiteLabels = [];
 
     if (raceSet == 'a') {
-        blackLabels.push('Non-Entrepreneurship');
-        whiteLabels.push('Entrepreneurship');
+        blackLabels.push('Female Names');
+        whiteLabels.push('Male Names');
     } else {
         blackLabels.push('Female Names');
         whiteLabels.push('Male Names');
